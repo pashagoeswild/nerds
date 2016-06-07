@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 28px;
+        fill: #c1c1c1;
+        font-family: symbols-nerds, symbols;
+      }
+    </style>
+  </defs>
+  <text id="_.icon-circle-dot" data-name=".icon-circle-dot" class="cls-1" x="0.283" y="22.004">●</text>
+</svg>
